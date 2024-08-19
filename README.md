@@ -4,6 +4,9 @@
 
 This is a Flutter-based e-commerce application that allows users to browse, search, and purchase products online. The application follows clean architecture principles and the MVVM design pattern to ensure a maintainable and scalable codebase.
 
+![image](https://github.com/YaraGaber/E-Commerce-Application/blob/master1/images/Screenshot%20(37).png)
+
+
 ## Features
 
 - **Product Listing**: Browse and search for products with an intuitive and responsive interface.
